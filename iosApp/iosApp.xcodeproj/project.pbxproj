@@ -32,38 +32,6 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
-		34550A1A73C9E01E9DE180E2 /* swiftpm */ = {
-			isa = PBXGroup;
-			children = (
-				34550C2E6014B616E24533F4 /* configuration */,
-			);
-			path = swiftpm;
-			sourceTree = "<group>";
-		};
-		34550B61DA870DF51BEE0D37 /* xcshareddata */ = {
-			isa = PBXGroup;
-			children = (
-				34550A1A73C9E01E9DE180E2 /* swiftpm */,
-			);
-			path = xcshareddata;
-			sourceTree = "<group>";
-		};
-		34550C2E6014B616E24533F4 /* configuration */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = configuration;
-			sourceTree = "<group>";
-		};
-		34550C819F75442058C26FE1 /* project.xcworkspace */ = {
-			isa = PBXGroup;
-			children = (
-				34550B61DA870DF51BEE0D37 /* xcshareddata */,
-			);
-			name = project.xcworkspace;
-			path = iosApp.xcodeproj/project.xcworkspace;
-			sourceTree = "<group>";
-		};
 		42799AB246E5F90AF97AA0EF /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
@@ -78,7 +46,6 @@
 				7555FF7D242A565900829871 /* iosApp */,
 				7555FF7C242A565900829871 /* Products */,
 				42799AB246E5F90AF97AA0EF /* Frameworks */,
-				34550C819F75442058C26FE1 /* project.xcworkspace */,
 			);
 			sourceTree = "<group>";
 		};
